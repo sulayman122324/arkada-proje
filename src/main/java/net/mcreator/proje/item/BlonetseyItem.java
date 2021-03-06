@@ -1,13 +1,21 @@
 
 package net.mcreator.proje.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.PickaxeItem;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.item.IItemTier;
+
+import net.mcreator.proje.ProjeModElements;
+
 @ProjeModElements.ModElement.Tag
-public class BlaxeSwordItem extends ProjeModElements.ModElement {
-
-	@ObjectHolder("proje:blaxe_sword")
+public class BlonetseyItem extends ProjeModElements.ModElement {
+	@ObjectHolder("proje:blonetsey")
 	public static final Item block = null;
-
-	public BlaxeSwordItem(ProjeModElements instance) {
+	public BlonetseyItem(ProjeModElements instance) {
 		super(instance, 1);
 	}
 
@@ -38,8 +46,6 @@ public class BlaxeSwordItem extends ProjeModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
-
-		}.setRegistryName("blaxe_sword"));
+		}.setRegistryName("blonetsey"));
 	}
-
 }

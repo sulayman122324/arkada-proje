@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "proje:items/blaze_sword"
+    "layer0": "proje:items/balbal"
   }
 }

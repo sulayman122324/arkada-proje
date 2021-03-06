@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "blaze_sword",
+    "texture": "balbal",
     "customModelName": "Normal",
-    "name": "Blaxe Sword",
+    "name": "Blonetsey",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

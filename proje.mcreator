@@ -2,28 +2,21 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Gfseg",
+      "name": "Blonetsey",
       "type": "tool",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gfseg"
-    },
-    {
-      "name": "BlaxeSword",
-      "type": "tool",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blaxe_sword"
+      "registry_name": "blonetsey"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.proje.blonetsey": "Blonetsey"
+    }
   },
   "workspaceSettings": {
     "modid": "proje",
