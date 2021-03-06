@@ -9,12 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dhthsfdh"
+    },
+    {
+      "name": "BlaxeSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaxe_sword"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.proje.blaxe_sword": "Blaxe Sword"
+    }
   },
   "workspaceSettings": {
     "modid": "proje",
