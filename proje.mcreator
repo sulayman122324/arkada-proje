@@ -1,10 +1,23 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Dwaerdwad",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dwaerdwad"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.proje.dwaerdwad.desc": "wdaa",
+      "item.proje.dwaerdwad": "Dwaerdwad"
+    }
   },
   "workspaceSettings": {
     "modid": "proje",
