@@ -1,0 +1,16 @@
+{
+  "group": "proje",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chiseled_quartz_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_ore",
+    "count": 1
+  }
+}

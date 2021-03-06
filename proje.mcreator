@@ -9,6 +9,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dwaerdwad"
+    },
+    {
+      "name": "Fveww",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fveww"
+    },
+    {
+      "name": "Blonetsey",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blonetsey"
     }
   ],
   "variable_elements": [],
