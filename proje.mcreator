@@ -2,37 +2,21 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Ge4we",
-      "type": "tool",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ge_4we"
-    },
-    {
-      "name": "Bsdfgb",
+      "name": "Gfseg",
       "type": "tool",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bsdfgb"
-    },
-    {
-      "name": "Denomo",
-      "type": "tool",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "denomo"
+      "registry_name": "gfseg"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.proje.gfseg": "Gfseg"
+    }
   },
   "workspaceSettings": {
     "modid": "proje",

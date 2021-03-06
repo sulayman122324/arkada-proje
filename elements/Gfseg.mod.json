@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "fsef",
+    "texture": "blaze_sword",
     "customModelName": "Normal",
-    "name": "Bsdfgb",
+    "name": "Gfseg",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

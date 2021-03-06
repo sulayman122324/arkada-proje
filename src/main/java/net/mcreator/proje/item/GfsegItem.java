@@ -1,13 +1,21 @@
 
 package net.mcreator.proje.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.PickaxeItem;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.item.IItemTier;
+
+import net.mcreator.proje.ProjeModElements;
+
 @ProjeModElements.ModElement.Tag
-public class DenomoItem extends ProjeModElements.ModElement {
-
-	@ObjectHolder("proje:denomo")
+public class GfsegItem extends ProjeModElements.ModElement {
+	@ObjectHolder("proje:gfseg")
 	public static final Item block = null;
-
-	public DenomoItem(ProjeModElements instance) {
+	public GfsegItem(ProjeModElements instance) {
 		super(instance, 1);
 	}
 
@@ -38,8 +46,6 @@ public class DenomoItem extends ProjeModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
-
-		}.setRegistryName("denomo"));
+		}.setRegistryName("gfseg"));
 	}
-
 }

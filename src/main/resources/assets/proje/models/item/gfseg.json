@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "proje:items/fsef"
+    "layer0": "proje:items/blaze_sword"
   }
 }
