@@ -9,12 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "esfaefa"
+    },
+    {
+      "name": "Tetsergd",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tetsergd"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabtetsergd": "Tetsergd"
+    }
   },
   "workspaceSettings": {
     "modid": "proje",
