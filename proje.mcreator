@@ -23,7 +23,10 @@
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.proje.blonetsey": "Blonetsey",
+      "item.proje.fveww": "Fveww"
+    }
   },
   "workspaceSettings": {
     "modid": "proje",
