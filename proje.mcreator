@@ -9,14 +9,21 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gfseg"
+    },
+    {
+      "name": "BlaxeSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaxe_sword"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.proje.gfseg": "Gfseg"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "proje",

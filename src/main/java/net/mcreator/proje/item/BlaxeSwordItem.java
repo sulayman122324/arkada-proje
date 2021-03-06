@@ -2,12 +2,12 @@
 package net.mcreator.proje.item;
 
 @ProjeModElements.ModElement.Tag
-public class GfsegItem extends ProjeModElements.ModElement {
+public class BlaxeSwordItem extends ProjeModElements.ModElement {
 
-	@ObjectHolder("proje:gfseg")
+	@ObjectHolder("proje:blaxe_sword")
 	public static final Item block = null;
 
-	public GfsegItem(ProjeModElements instance) {
+	public BlaxeSwordItem(ProjeModElements instance) {
 		super(instance, 1);
 	}
 
@@ -39,7 +39,7 @@ public class GfsegItem extends ProjeModElements.ModElement {
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 
-		}.setRegistryName("gfseg"));
+		}.setRegistryName("blaxe_sword"));
 	}
 
 }
