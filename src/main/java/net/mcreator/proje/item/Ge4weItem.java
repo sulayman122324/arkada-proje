@@ -1,20 +1,12 @@
 
 package net.mcreator.proje.item;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.PickaxeItem;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-
-import net.mcreator.proje.ProjeModElements;
-
 @ProjeModElements.ModElement.Tag
 public class Ge4weItem extends ProjeModElements.ModElement {
+
 	@ObjectHolder("proje:ge_4we")
 	public static final Item block = null;
+
 	public Ge4weItem(ProjeModElements instance) {
 		super(instance, 2);
 	}
@@ -46,6 +38,8 @@ public class Ge4weItem extends ProjeModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+
 		}.setRegistryName("ge_4we"));
 	}
+
 }

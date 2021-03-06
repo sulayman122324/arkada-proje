@@ -2,6 +2,15 @@
   "id_map": {},
   "mod_elements": [
     {
+      "name": "Ge4we",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ge_4we"
+    },
+    {
       "name": "Bsdfgb",
       "type": "tool",
       "sortid": 1,
@@ -11,22 +20,19 @@
       "registry_name": "bsdfgb"
     },
     {
-      "name": "Ge4we",
+      "name": "Denomo",
       "type": "tool",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ge_4we"
+      "registry_name": "denomo"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.proje.ge_4we": "Ge 4we",
-      "item.proje.bsdfgb": "Bsdfgb"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "proje",

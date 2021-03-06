@@ -2,12 +2,12 @@
 package net.mcreator.proje.item;
 
 @ProjeModElements.ModElement.Tag
-public class BsdfgbItem extends ProjeModElements.ModElement {
+public class DenomoItem extends ProjeModElements.ModElement {
 
-	@ObjectHolder("proje:bsdfgb")
+	@ObjectHolder("proje:denomo")
 	public static final Item block = null;
 
-	public BsdfgbItem(ProjeModElements instance) {
+	public DenomoItem(ProjeModElements instance) {
 		super(instance, 1);
 	}
 
@@ -39,7 +39,7 @@ public class BsdfgbItem extends ProjeModElements.ModElement {
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 
-		}.setRegistryName("bsdfgb"));
+		}.setRegistryName("denomo"));
 	}
 
 }
