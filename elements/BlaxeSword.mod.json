@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "gold_hammer",
+    "texture": "blaze_sword",
     "customModelName": "Normal",
-    "name": "Denomo",
+    "name": "Blaxe Sword",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

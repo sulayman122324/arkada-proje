@@ -2,20 +2,20 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Denomo",
+      "name": "BlaxeSword",
       "type": "tool",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "denomo"
+      "registry_name": "blaxe_sword"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.proje.denomo": "Denomo"
+      "item.proje.blaxe_sword": "Blaxe Sword"
     }
   },
   "workspaceSettings": {

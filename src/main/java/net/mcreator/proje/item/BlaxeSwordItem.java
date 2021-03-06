@@ -12,10 +12,10 @@ import net.minecraft.item.IItemTier;
 import net.mcreator.proje.ProjeModElements;
 
 @ProjeModElements.ModElement.Tag
-public class DenomoItem extends ProjeModElements.ModElement {
-	@ObjectHolder("proje:denomo")
+public class BlaxeSwordItem extends ProjeModElements.ModElement {
+	@ObjectHolder("proje:blaxe_sword")
 	public static final Item block = null;
-	public DenomoItem(ProjeModElements instance) {
+	public BlaxeSwordItem(ProjeModElements instance) {
 		super(instance, 1);
 	}
 
@@ -46,6 +46,6 @@ public class DenomoItem extends ProjeModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
-		}.setRegistryName("denomo"));
+		}.setRegistryName("blaxe_sword"));
 	}
 }
