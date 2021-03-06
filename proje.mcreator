@@ -9,12 +9,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bsdfgb"
+    },
+    {
+      "name": "Ge4we",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ge_4we"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.proje.ge_4we": "Ge 4we",
       "item.proje.bsdfgb": "Bsdfgb"
     }
   },
