@@ -1,0 +1,16 @@
+{
+  "group": "proje",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:magma_block",
+    "count": 1
+  }
+}

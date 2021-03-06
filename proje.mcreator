@@ -2,31 +2,19 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Fveww",
-      "type": "item",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "fveww"
-    },
-    {
-      "name": "Blonetsey",
-      "type": "tool",
+      "name": "Dwadwd",
+      "type": "recipe",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blonetsey"
+      "registry_name": "dwadwd"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.proje.blonetsey": "Blonetsey",
-      "item.proje.fveww": "Fveww"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "proje",
