@@ -6,11 +6,11 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:nether_quartz_ore"
+      "item": "minecraft:chiseled_quartz_block"
     }
   },
   "result": {
-    "item": "minecraft:oak_sapling",
+    "item": "minecraft:iron_ore",
     "count": 1
   }
 }
