@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "blonetsey"
+    },
+    {
+      "name": "Fveww",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fveww"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.proje.blonetsey": "Blonetsey"
+      "item.proje.blonetsey": "Blonetsey",
+      "item.proje.fveww": "Fveww"
     }
   },
   "workspaceSettings": {
