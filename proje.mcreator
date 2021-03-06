@@ -18,12 +18,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tetsergd"
+    },
+    {
+      "name": "Etasefa",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etasefa"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.proje.etasefa": "Etasefa",
+      "item.proje.etasefa.desc": "dawad",
       "itemGroup.tabtetsergd": "Tetsergd"
     }
   },
